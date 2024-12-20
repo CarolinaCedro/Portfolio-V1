@@ -8,7 +8,7 @@
     width: 100%;
     min-height: 100vh;
     height: auto;
-    background-image: url("img/bg-my-portifolio.png");
+    background-image: url("../img/bg-my-portifolio.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -18,7 +18,7 @@
     width: 100%;
     min-height: 100vh;
     height: auto;
-    background-image: url("img/bg-my-portifolio.png");
+    background-image: url("../img/bg-my-portifolio.png");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 5rem 300px;
